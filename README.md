@@ -19,7 +19,7 @@
 - 🔥 Professional Software Engineer (8+ years)
 - 🧱 Backend in **Golang, Python, JavaScript/TypeScript, C#**
 - ⚡ Microsoft stack: **ASP.NET Core, MVC, Razor Pages, Blazor, Web API, EF Core, SQL Server**
-- 🏗 Building **SaaS platforms**, multi-service backends & distributed systems  
+- 🏗 Building **SaaS platforms**, onboarding flows, identity, multi-service backends & distributed systems  
 - 🌱 Cloud-native dev w/ **Redis Streams, Docker, microservices**
 - 🎨 Frontend: **React, Vue, Angular, Bootstrap5, TailwindCSS**
 - 🗃 Redis, MongoDB & PostgreSQL enthusiast 
