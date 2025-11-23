@@ -64,19 +64,10 @@
 
 ---
 
-# 🏆 GitHub Trophy Wall
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=marcusbello&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
----
-
 # 📊 GitHub Stats
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=marcusbello&show_icons=true&theme=tokyonight" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=marcusbello&theme=tokyonight" />
 </p>
 
 ---
