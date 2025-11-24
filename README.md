@@ -1,6 +1,6 @@
 <!-- Intro Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3500&color=58A6FF&center=true&vCenter=true&lines=Hi+I'm+Marcus+Bello+👋;Full-Stack+Engineer;Golang+%7C+Python+%7C+JavaScript+%7C+C%23;Cloud+Native+Developer;SaaS+Architect;Building+Cool+Things+Everyday" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3500&color=58A6FF&center=true&vCenter=true&lines=Hi+I'm+Marcus+Bello+👋;Expert Web Developer;Full-Stack+Engineer;Golang+%7C+Python+%7C+JavaScript+%7C+C%23;Cloud+Native+Developer;SaaS+Architect;Building+Cool+Things+Everyday" />
 </p>
 
 <!-- Header -->
@@ -89,13 +89,13 @@
 - Microservices backend
 
 ### 🛡️ Anonymous HR Reporting Platform
-- Remix + Django  
+- React + Django  
 - Company passphrase system  
 - Token-based anonymous submissions  
 
-### 🏭 Supply Chain Backend
-- Inventory flows  
-- Multi-warehouse logic  
+### 🏭 Health Records Management App
+- AngularJS + FASTAPI  
+- Docker + Github Actions
 - Microservices  
 
 ### 🛒 Ecommerce Backend
@@ -111,8 +111,7 @@
 
 # 🌐 Connect With Me  
 <p>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Twitter-Profile-blue?style=for-the-badge&logo=twitter" /></a>
+  <a href="https://linkedin.com/in/marcusbello"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" /></a>
 </p>
 
 ---
