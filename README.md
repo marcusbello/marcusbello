@@ -4,7 +4,7 @@
 </p>
 
 <!-- Header -->
-<h1 align="center">Bello Marcus (Marcuses)</h1>
+<h1 align="center">Bello Marcus (Full-Stack Web Engineer)</h1>
 
 <p align="center">
   <a href="https://github.com/marcusbello">
@@ -17,7 +17,7 @@
 # 👨‍💻 About Me
 
 - 🔥 Professional Web Developer & Software Engineer (8+ years)
-- 🏗 Building **SaaS platforms**, business websites, online markets, authentication and authorization, onboarding flows, multi-service backends & distributed systems.
+- 🏗 Building **SaaS platforms**, business websites, online markets, authentication and authorization, onboarding flows, microservice backends & distributed systems.
 - 🧱 Backend in **Golang, Python, JavaScript/TypeScript, C#**
 - ⚡ Microsoft stack: **ASP.NET Core, MVC, Razor Pages, Blazor, Web API, EF Core, SQL Server**
 - 🌱 Cloud-native dev w/ **Redis Streams, Docker, microservices**
