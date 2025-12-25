@@ -17,9 +17,9 @@
 # 👨‍💻 About Me
 
 - 🔥 Professional Web Developer & Software Engineer (8+ years)
+- 🏗 Building **SaaS platforms**, business websites, online markets, authentication and authorization, onboarding flows, multi-service backends & distributed systems.
 - 🧱 Backend in **Golang, Python, JavaScript/TypeScript, C#**
 - ⚡ Microsoft stack: **ASP.NET Core, MVC, Razor Pages, Blazor, Web API, EF Core, SQL Server**
-- 🏗 Building **SaaS platforms**, business websites, online markets, authentication and authorization, onboarding flows, multi-service backends & distributed systems  
 - 🌱 Cloud-native dev w/ **Redis Streams, Docker, microservices**
 - 🎨 Frontend: **React, Vue, Angular, Bootstrap5, TailwindCSS**
 - 🗃 Redis, MongoDB & PostgreSQL enthusiast 
