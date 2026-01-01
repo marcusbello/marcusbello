@@ -17,7 +17,7 @@
 # 👨‍💻 About Me
 
 - 🔥 Professional Web Developer & Software Engineer (8+ years)
-- 🏗 Building **SaaS platforms**, business websites, online markets, authentication and authorization, onboarding flows, microservice backends & distributed systems.
+- 🏗 Building **SaaS platforms**, **Business Websites**, **Online Markets, Authentication And Authorization, Onboarding Flows, Microservice Backends & Distributed Systems.**
 - 🧱 Backend in **Golang, Python, JavaScript/TypeScript, C#**
 - ⚡ Microsoft stack: **ASP.NET Core, MVC, Razor Pages, Blazor, Web API, EF Core, SQL Server**
 - 🌱 Cloud-native dev w/ **Redis Streams, Docker, microservices**
@@ -80,34 +80,6 @@
 
 ---
 
-# 🔥 Featured Projects
-
-### 🚀 Event Ticketing SaaS
-- Sell tickets, host events
-- Private/public events
-- Stripe integration
-- Microservices backend (Golang)
-
-### 🛡️ Anonymous HR Reporting Platform
-- React + Django DRF
-- Company passphrase system  
-- Token-based anonymous submissions  
-
-### 🏭 Health Records Management App
-- AngularJS + FastAPI  
-- Docker + Github Actions
-- Microservices  
-
-### 🛒 Ecommerce Backend
-- Multi-vendor  
-- Orders + payments  
-- Pricing rules
-- Django  
-
-### 💰 Personal Income Tax Calculator
-- Fast, modern  
-- Nigerian tax rules  
-
 ---
 
 # 🌐 Connect With Me  
@@ -117,4 +89,4 @@
 
 ---
 
-<p align="center">⭐ If you like my work, consider starring a repo!</p>
+<p align="center">⭐ If you like my work or need help, consider sending a message</p>
