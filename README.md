@@ -89,4 +89,4 @@
 
 ---
 
-<p align="center">⭐ If you like my work or need help, consider sending a message</p>
+<p align="center">⭐ If you like my work or need help, consider sending a message on linkedin</p>
