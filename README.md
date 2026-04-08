@@ -16,7 +16,7 @@
 
 # 👨‍💻 About Me
 
-- 🔥 Professional Web Developer & Software Engineer (8+ years)
+- 🔥 Professional Web Developer & Software Engineer (10 years)
 - 🏗 Building **SaaS platforms**, **Business Websites**, **Online Markets, Authentication And Authorization, Onboarding Flows, Microservice Backends & Distributed Systems.**
 - 🧱 Backend in **Golang, Python, JavaScript/TypeScript, C#**
 - ⚡ Microsoft stack: **ASP.NET Core, MVC, Razor Pages, Blazor, Web API, EF Core, SQL Server**
